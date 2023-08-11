@@ -1,4 +1,4 @@
-# Orbital Simulator
+# Orbit Simulator
 Using the given equations, we create and earth class and moon class.
 Each .py file performs its main program which lists their coordinates at a given day.
 We use the Python integrated GUI, Tkinter.
