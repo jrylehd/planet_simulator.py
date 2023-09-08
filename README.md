@@ -4,3 +4,4 @@ Each .py file performs its main program which lists their coordinates at a given
 We use the Python integrated GUI, Tkinter.
 In spirals.py, we visualize the code by dot tracing the coordinates on the canvas.
 The visualization represents the rotation of the earth around the sun and the moon around the earth.
+The product of the given equations gives us a spiraling pattern of the moon around the sun.
